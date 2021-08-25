@@ -1,5 +1,5 @@
 
 {
-"mongoURI": "mongodb+srv://Shadow:Harsh@5450@cluster0.zawuh.mongodb.net/ChatMate",
+"mongoURI": "MONGODBURL",
 "flutter__secret": "flutter__secret"
 }
